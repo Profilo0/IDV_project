@@ -1,0 +1,109 @@
+Vuosi,Sektoriluokitus 2023,Ammattiluokitus 2010,Sukupuoli,Tiedot,Vuosi_label,Sektoriluokitus 2023_label,Ammattiluokitus 2010_label,Sukupuoli_label,Tiedot_label,value
+2024,S0,SSS,SSS,koko_psaaja_lkm,2024*,S0 Total,SSS Total,Total,Number of full-time wage and salary earners,1713734
+2024,S0,SSS,SSS,koko_psaaja_kans_ka,2024*,S0 Total,SSS Total,Total,"Average for total earnings of full-time wage and salary earners, EUR per month",4070
+2024,S0,SSS,SSS,koko_psaaja_kans_p10,2024*,S0 Total,SSS Total,Total,"1st decile of total earnings of full-time wage and salary earners, EUR per month",2477
+2024,S0,SSS,SSS,koko_psaaja_kans_med,2024*,S0 Total,SSS Total,Total,"Median for total earnings of full-time wage and salary earners, EUR per month",3611
+2024,S0,SSS,SSS,koko_psaaja_kans_p90,2024*,S0 Total,SSS Total,Total,"9th decile of total earnings of full-time wage and salary earners, EUR per month",6115
+2024,S0,SSS,SSS,koko_psaaja_sans_ka,2024*,S0 Total,SSS Total,Total,"Average for earnings for regular working hours of full-time wage and salary earners, EUR per month",3979
+2024,S0,SSS,SSS,koko_psaaja_sans_p10,2024*,S0 Total,SSS Total,Total,"1st decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",2441
+2024,S0,SSS,SSS,koko_psaaja_sans_med,2024*,S0 Total,SSS Total,Total,"Median for earnings for regular working hours of full-time wage and salary earners, EUR per month",3523
+2024,S0,SSS,SSS,koko_psaaja_sans_p90,2024*,S0 Total,SSS Total,Total,"9th decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",5991
+2024,S0,0,SSS,koko_psaaja_lkm,2024*,S0 Total,0 Armed forces,Total,Number of full-time wage and salary earners,9349
+2024,S0,0,SSS,koko_psaaja_kans_ka,2024*,S0 Total,0 Armed forces,Total,"Average for total earnings of full-time wage and salary earners, EUR per month",5053
+2024,S0,0,SSS,koko_psaaja_kans_p10,2024*,S0 Total,0 Armed forces,Total,"1st decile of total earnings of full-time wage and salary earners, EUR per month",3346
+2024,S0,0,SSS,koko_psaaja_kans_med,2024*,S0 Total,0 Armed forces,Total,"Median for total earnings of full-time wage and salary earners, EUR per month",4874
+2024,S0,0,SSS,koko_psaaja_kans_p90,2024*,S0 Total,0 Armed forces,Total,"9th decile of total earnings of full-time wage and salary earners, EUR per month",7020
+2024,S0,0,SSS,koko_psaaja_sans_ka,2024*,S0 Total,0 Armed forces,Total,"Average for earnings for regular working hours of full-time wage and salary earners, EUR per month",4885
+2024,S0,0,SSS,koko_psaaja_sans_p10,2024*,S0 Total,0 Armed forces,Total,"1st decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",3264
+2024,S0,0,SSS,koko_psaaja_sans_med,2024*,S0 Total,0 Armed forces,Total,"Median for earnings for regular working hours of full-time wage and salary earners, EUR per month",4681
+2024,S0,0,SSS,koko_psaaja_sans_p90,2024*,S0 Total,0 Armed forces,Total,"9th decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",6752
+2024,S0,1,SSS,koko_psaaja_lkm,2024*,S0 Total,1 Managers,Total,Number of full-time wage and salary earners,56872
+2024,S0,1,SSS,koko_psaaja_kans_ka,2024*,S0 Total,1 Managers,Total,"Average for total earnings of full-time wage and salary earners, EUR per month",8200
+2024,S0,1,SSS,koko_psaaja_kans_p10,2024*,S0 Total,1 Managers,Total,"1st decile of total earnings of full-time wage and salary earners, EUR per month",4320
+2024,S0,1,SSS,koko_psaaja_kans_med,2024*,S0 Total,1 Managers,Total,"Median for total earnings of full-time wage and salary earners, EUR per month",7460
+2024,S0,1,SSS,koko_psaaja_kans_p90,2024*,S0 Total,1 Managers,Total,"9th decile of total earnings of full-time wage and salary earners, EUR per month",12465
+2024,S0,1,SSS,koko_psaaja_sans_ka,2024*,S0 Total,1 Managers,Total,"Average for earnings for regular working hours of full-time wage and salary earners, EUR per month",8160
+2024,S0,1,SSS,koko_psaaja_sans_p10,2024*,S0 Total,1 Managers,Total,"1st decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",4298
+2024,S0,1,SSS,koko_psaaja_sans_med,2024*,S0 Total,1 Managers,Total,"Median for earnings for regular working hours of full-time wage and salary earners, EUR per month",7421
+2024,S0,1,SSS,koko_psaaja_sans_p90,2024*,S0 Total,1 Managers,Total,"9th decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",12400
+2024,S0,2,SSS,koko_psaaja_lkm,2024*,S0 Total,2 Professionals,Total,Number of full-time wage and salary earners,477322
+2024,S0,2,SSS,koko_psaaja_kans_ka,2024*,S0 Total,2 Professionals,Total,"Average for total earnings of full-time wage and salary earners, EUR per month",5015
+2024,S0,2,SSS,koko_psaaja_kans_p10,2024*,S0 Total,2 Professionals,Total,"1st decile of total earnings of full-time wage and salary earners, EUR per month",3199
+2024,S0,2,SSS,koko_psaaja_kans_med,2024*,S0 Total,2 Professionals,Total,"Median for total earnings of full-time wage and salary earners, EUR per month",4663
+2024,S0,2,SSS,koko_psaaja_kans_p90,2024*,S0 Total,2 Professionals,Total,"9th decile of total earnings of full-time wage and salary earners, EUR per month",7134
+2024,S0,2,SSS,koko_psaaja_sans_ka,2024*,S0 Total,2 Professionals,Total,"Average for earnings for regular working hours of full-time wage and salary earners, EUR per month",4935
+2024,S0,2,SSS,koko_psaaja_sans_p10,2024*,S0 Total,2 Professionals,Total,"1st decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",3182
+2024,S0,2,SSS,koko_psaaja_sans_med,2024*,S0 Total,2 Professionals,Total,"Median for earnings for regular working hours of full-time wage and salary earners, EUR per month",4605
+2024,S0,2,SSS,koko_psaaja_sans_p90,2024*,S0 Total,2 Professionals,Total,"9th decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",7007
+2024,S0,3,SSS,koko_psaaja_lkm,2024*,S0 Total,3 Technicians and associate professionals,Total,Number of full-time wage and salary earners,340817
+2024,S0,3,SSS,koko_psaaja_kans_ka,2024*,S0 Total,3 Technicians and associate professionals,Total,"Average for total earnings of full-time wage and salary earners, EUR per month",4034
+2024,S0,3,SSS,koko_psaaja_kans_p10,2024*,S0 Total,3 Technicians and associate professionals,Total,"1st decile of total earnings of full-time wage and salary earners, EUR per month",2816
+2024,S0,3,SSS,koko_psaaja_kans_med,2024*,S0 Total,3 Technicians and associate professionals,Total,"Median for total earnings of full-time wage and salary earners, EUR per month",3711
+2024,S0,3,SSS,koko_psaaja_kans_p90,2024*,S0 Total,3 Technicians and associate professionals,Total,"9th decile of total earnings of full-time wage and salary earners, EUR per month",5633
+2024,S0,3,SSS,koko_psaaja_sans_ka,2024*,S0 Total,3 Technicians and associate professionals,Total,"Average for earnings for regular working hours of full-time wage and salary earners, EUR per month",3947
+2024,S0,3,SSS,koko_psaaja_sans_p10,2024*,S0 Total,3 Technicians and associate professionals,Total,"1st decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",2798
+2024,S0,3,SSS,koko_psaaja_sans_med,2024*,S0 Total,3 Technicians and associate professionals,Total,"Median for earnings for regular working hours of full-time wage and salary earners, EUR per month",3643
+2024,S0,3,SSS,koko_psaaja_sans_p90,2024*,S0 Total,3 Technicians and associate professionals,Total,"9th decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",5458
+2024,S0,4,SSS,koko_psaaja_lkm,2024*,S0 Total,4 Clerical support workers,Total,Number of full-time wage and salary earners,100381
+2024,S0,4,SSS,koko_psaaja_kans_ka,2024*,S0 Total,4 Clerical support workers,Total,"Average for total earnings of full-time wage and salary earners, EUR per month",3300
+2024,S0,4,SSS,koko_psaaja_kans_p10,2024*,S0 Total,4 Clerical support workers,Total,"1st decile of total earnings of full-time wage and salary earners, EUR per month",2427
+2024,S0,4,SSS,koko_psaaja_kans_med,2024*,S0 Total,4 Clerical support workers,Total,"Median for total earnings of full-time wage and salary earners, EUR per month",3100
+2024,S0,4,SSS,koko_psaaja_kans_p90,2024*,S0 Total,4 Clerical support workers,Total,"9th decile of total earnings of full-time wage and salary earners, EUR per month",4398
+2024,S0,4,SSS,koko_psaaja_sans_ka,2024*,S0 Total,4 Clerical support workers,Total,"Average for earnings for regular working hours of full-time wage and salary earners, EUR per month",3260
+2024,S0,4,SSS,koko_psaaja_sans_p10,2024*,S0 Total,4 Clerical support workers,Total,"1st decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",2405
+2024,S0,4,SSS,koko_psaaja_sans_med,2024*,S0 Total,4 Clerical support workers,Total,"Median for earnings for regular working hours of full-time wage and salary earners, EUR per month",3073
+2024,S0,4,SSS,koko_psaaja_sans_p90,2024*,S0 Total,4 Clerical support workers,Total,"9th decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",4300
+2024,S0,5,SSS,koko_psaaja_lkm,2024*,S0 Total,5 Service and sales workers,Total,Number of full-time wage and salary earners,283650
+2024,S0,5,SSS,koko_psaaja_kans_ka,2024*,S0 Total,5 Service and sales workers,Total,"Average for total earnings of full-time wage and salary earners, EUR per month",3059
+2024,S0,5,SSS,koko_psaaja_kans_p10,2024*,S0 Total,5 Service and sales workers,Total,"1st decile of total earnings of full-time wage and salary earners, EUR per month",2296
+2024,S0,5,SSS,koko_psaaja_kans_med,2024*,S0 Total,5 Service and sales workers,Total,"Median for total earnings of full-time wage and salary earners, EUR per month",2913
+2024,S0,5,SSS,koko_psaaja_kans_p90,2024*,S0 Total,5 Service and sales workers,Total,"9th decile of total earnings of full-time wage and salary earners, EUR per month",4002
+2024,S0,5,SSS,koko_psaaja_sans_ka,2024*,S0 Total,5 Service and sales workers,Total,"Average for earnings for regular working hours of full-time wage and salary earners, EUR per month",2981
+2024,S0,5,SSS,koko_psaaja_sans_p10,2024*,S0 Total,5 Service and sales workers,Total,"1st decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",2261
+2024,S0,5,SSS,koko_psaaja_sans_med,2024*,S0 Total,5 Service and sales workers,Total,"Median for earnings for regular working hours of full-time wage and salary earners, EUR per month",2852
+2024,S0,5,SSS,koko_psaaja_sans_p90,2024*,S0 Total,5 Service and sales workers,Total,"9th decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",3845
+2024,S0,6,SSS,koko_psaaja_lkm,2024*,S0 Total,"6 Skilled agricultural, forestry and fishery workers",Total,Number of full-time wage and salary earners,12986
+2024,S0,6,SSS,koko_psaaja_kans_ka,2024*,S0 Total,"6 Skilled agricultural, forestry and fishery workers",Total,"Average for total earnings of full-time wage and salary earners, EUR per month",2683
+2024,S0,6,SSS,koko_psaaja_kans_p10,2024*,S0 Total,"6 Skilled agricultural, forestry and fishery workers",Total,"1st decile of total earnings of full-time wage and salary earners, EUR per month",1865
+2024,S0,6,SSS,koko_psaaja_kans_med,2024*,S0 Total,"6 Skilled agricultural, forestry and fishery workers",Total,"Median for total earnings of full-time wage and salary earners, EUR per month",2560
+2024,S0,6,SSS,koko_psaaja_kans_p90,2024*,S0 Total,"6 Skilled agricultural, forestry and fishery workers",Total,"9th decile of total earnings of full-time wage and salary earners, EUR per month",3615
+2024,S0,6,SSS,koko_psaaja_sans_ka,2024*,S0 Total,"6 Skilled agricultural, forestry and fishery workers",Total,"Average for earnings for regular working hours of full-time wage and salary earners, EUR per month",2626
+2024,S0,6,SSS,koko_psaaja_sans_p10,2024*,S0 Total,"6 Skilled agricultural, forestry and fishery workers",Total,"1st decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",1838
+2024,S0,6,SSS,koko_psaaja_sans_med,2024*,S0 Total,"6 Skilled agricultural, forestry and fishery workers",Total,"Median for earnings for regular working hours of full-time wage and salary earners, EUR per month",2517
+2024,S0,6,SSS,koko_psaaja_sans_p90,2024*,S0 Total,"6 Skilled agricultural, forestry and fishery workers",Total,"9th decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",3517
+2024,S0,7,SSS,koko_psaaja_lkm,2024*,S0 Total,7 Craft and related trades workers,Total,Number of full-time wage and salary earners,169474
+2024,S0,7,SSS,koko_psaaja_kans_ka,2024*,S0 Total,7 Craft and related trades workers,Total,"Average for total earnings of full-time wage and salary earners, EUR per month",3538
+2024,S0,7,SSS,koko_psaaja_kans_p10,2024*,S0 Total,7 Craft and related trades workers,Total,"1st decile of total earnings of full-time wage and salary earners, EUR per month",2520
+2024,S0,7,SSS,koko_psaaja_kans_med,2024*,S0 Total,7 Craft and related trades workers,Total,"Median for total earnings of full-time wage and salary earners, EUR per month",3415
+2024,S0,7,SSS,koko_psaaja_kans_p90,2024*,S0 Total,7 Craft and related trades workers,Total,"9th decile of total earnings of full-time wage and salary earners, EUR per month",4707
+2024,S0,7,SSS,koko_psaaja_sans_ka,2024*,S0 Total,7 Craft and related trades workers,Total,"Average for earnings for regular working hours of full-time wage and salary earners, EUR per month",3391
+2024,S0,7,SSS,koko_psaaja_sans_p10,2024*,S0 Total,7 Craft and related trades workers,Total,"1st decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",2477
+2024,S0,7,SSS,koko_psaaja_sans_med,2024*,S0 Total,7 Craft and related trades workers,Total,"Median for earnings for regular working hours of full-time wage and salary earners, EUR per month",3310
+2024,S0,7,SSS,koko_psaaja_sans_p90,2024*,S0 Total,7 Craft and related trades workers,Total,"9th decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",4397
+2024,S0,8,SSS,koko_psaaja_lkm,2024*,S0 Total,"8 Plant and machine operators, and assemblers",Total,Number of full-time wage and salary earners,152019
+2024,S0,8,SSS,koko_psaaja_kans_ka,2024*,S0 Total,"8 Plant and machine operators, and assemblers",Total,"Average for total earnings of full-time wage and salary earners, EUR per month",3534
+2024,S0,8,SSS,koko_psaaja_kans_p10,2024*,S0 Total,"8 Plant and machine operators, and assemblers",Total,"1st decile of total earnings of full-time wage and salary earners, EUR per month",2428
+2024,S0,8,SSS,koko_psaaja_kans_med,2024*,S0 Total,"8 Plant and machine operators, and assemblers",Total,"Median for total earnings of full-time wage and salary earners, EUR per month",3382
+2024,S0,8,SSS,koko_psaaja_kans_p90,2024*,S0 Total,"8 Plant and machine operators, and assemblers",Total,"9th decile of total earnings of full-time wage and salary earners, EUR per month",4858
+2024,S0,8,SSS,koko_psaaja_sans_ka,2024*,S0 Total,"8 Plant and machine operators, and assemblers",Total,"Average for earnings for regular working hours of full-time wage and salary earners, EUR per month",3371
+2024,S0,8,SSS,koko_psaaja_sans_p10,2024*,S0 Total,"8 Plant and machine operators, and assemblers",Total,"1st decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",2381
+2024,S0,8,SSS,koko_psaaja_sans_med,2024*,S0 Total,"8 Plant and machine operators, and assemblers",Total,"Median for earnings for regular working hours of full-time wage and salary earners, EUR per month",3259
+2024,S0,8,SSS,koko_psaaja_sans_p90,2024*,S0 Total,"8 Plant and machine operators, and assemblers",Total,"9th decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",4509
+2024,S0,9,SSS,koko_psaaja_lkm,2024*,S0 Total,9 Elementary occupations,Total,Number of full-time wage and salary earners,105861
+2024,S0,9,SSS,koko_psaaja_kans_ka,2024*,S0 Total,9 Elementary occupations,Total,"Average for total earnings of full-time wage and salary earners, EUR per month",2723
+2024,S0,9,SSS,koko_psaaja_kans_p10,2024*,S0 Total,9 Elementary occupations,Total,"1st decile of total earnings of full-time wage and salary earners, EUR per month",2014
+2024,S0,9,SSS,koko_psaaja_kans_med,2024*,S0 Total,9 Elementary occupations,Total,"Median for total earnings of full-time wage and salary earners, EUR per month",2549
+2024,S0,9,SSS,koko_psaaja_kans_p90,2024*,S0 Total,9 Elementary occupations,Total,"9th decile of total earnings of full-time wage and salary earners, EUR per month",3653
+2024,S0,9,SSS,koko_psaaja_sans_ka,2024*,S0 Total,9 Elementary occupations,Total,"Average for earnings for regular working hours of full-time wage and salary earners, EUR per month",2648
+2024,S0,9,SSS,koko_psaaja_sans_p10,2024*,S0 Total,9 Elementary occupations,Total,"1st decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",2000
+2024,S0,9,SSS,koko_psaaja_sans_med,2024*,S0 Total,9 Elementary occupations,Total,"Median for earnings for regular working hours of full-time wage and salary earners, EUR per month",2514
+2024,S0,9,SSS,koko_psaaja_sans_p90,2024*,S0 Total,9 Elementary occupations,Total,"9th decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",3460
+2024,S0,X,SSS,koko_psaaja_lkm,2024*,S0 Total,X Unknown,Total,Number of full-time wage and salary earners,5003
+2024,S0,X,SSS,koko_psaaja_kans_ka,2024*,S0 Total,X Unknown,Total,"Average for total earnings of full-time wage and salary earners, EUR per month",6784
+2024,S0,X,SSS,koko_psaaja_kans_p10,2024*,S0 Total,X Unknown,Total,"1st decile of total earnings of full-time wage and salary earners, EUR per month",2026
+2024,S0,X,SSS,koko_psaaja_kans_med,2024*,S0 Total,X Unknown,Total,"Median for total earnings of full-time wage and salary earners, EUR per month",5020
+2024,S0,X,SSS,koko_psaaja_kans_p90,2024*,S0 Total,X Unknown,Total,"9th decile of total earnings of full-time wage and salary earners, EUR per month",13504
+2024,S0,X,SSS,koko_psaaja_sans_ka,2024*,S0 Total,X Unknown,Total,"Average for earnings for regular working hours of full-time wage and salary earners, EUR per month",6721
+2024,S0,X,SSS,koko_psaaja_sans_p10,2024*,S0 Total,X Unknown,Total,"1st decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",2007
+2024,S0,X,SSS,koko_psaaja_sans_med,2024*,S0 Total,X Unknown,Total,"Median for earnings for regular working hours of full-time wage and salary earners, EUR per month",5016
+2024,S0,X,SSS,koko_psaaja_sans_p90,2024*,S0 Total,X Unknown,Total,"9th decile of earnings for regular working hours of full-time wage and salary earners, EUR per month",13333

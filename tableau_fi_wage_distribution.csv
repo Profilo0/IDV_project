@@ -1,0 +1,151 @@
+occ_code,occ_label,percentile,monthly_net_eur
+SSS,All occupations,P10,1870
+SSS,All occupations,P25,2300
+SSS,All occupations,Median,"<bound method Series.median of occ_code                   SSS
+occ_label      All occupations
+p10                       1870
+p25                       2300
+median                    3000
+p75                       3870
+p90                       5070
+mean                      3380
+n_thousands               2040
+Name: 0, dtype: object>"
+SSS,All occupations,P75,3870
+SSS,All occupations,P90,5070
+SSS,All occupations,Mean,3380
+1,Managers,P10,3580
+1,Managers,P25,4500
+1,Managers,Median,"<bound method Series.median of occ_code              1
+occ_label      Managers
+p10                3580
+p25                4500
+median             5800
+p75                7600
+p90               10200
+mean               6700
+n_thousands          90
+Name: 1, dtype: object>"
+1,Managers,P75,7600
+1,Managers,P90,10200
+1,Managers,Mean,6700
+2,Professionals,P10,2680
+2,Professionals,P25,3200
+2,Professionals,Median,"<bound method Series.median of occ_code                   2
+occ_label      Professionals
+p10                     2680
+p25                     3200
+median                  3880
+p75                     4810
+p90                     6000
+mean                    4150
+n_thousands              530
+Name: 2, dtype: object>"
+2,Professionals,P75,4810
+2,Professionals,P90,6000
+2,Professionals,Mean,4150
+3,Technicians,P10,2340
+3,Technicians,P25,2760
+3,Technicians,Median,"<bound method Series.median of occ_code                 3
+occ_label      Technicians
+p10                   2340
+p25                   2760
+median                3260
+p75                   3930
+p90                   4810
+mean                  3450
+n_thousands            340
+Name: 3, dtype: object>"
+3,Technicians,P75,3930
+3,Technicians,P90,4810
+3,Technicians,Mean,3450
+4,Clerical workers,P10,1990
+4,Clerical workers,P25,2320
+4,Clerical workers,Median,"<bound method Series.median of occ_code                      4
+occ_label      Clerical workers
+p10                        1990
+p25                        2320
+median                     2700
+p75                        3170
+p90                        3730
+mean                       2830
+n_thousands                 190
+Name: 4, dtype: object>"
+4,Clerical workers,P75,3170
+4,Clerical workers,P90,3730
+4,Clerical workers,Mean,2830
+5,Service workers,P10,1680
+5,Service workers,P25,1950
+5,Service workers,Median,"<bound method Series.median of occ_code                     5
+occ_label      Service workers
+p10                       1680
+p25                       1950
+median                    2280
+p75                       2720
+p90                       3280
+mean                      2430
+n_thousands                330
+Name: 5, dtype: object>"
+5,Service workers,P75,2720
+5,Service workers,P90,3280
+5,Service workers,Mean,2430
+6,Agri & fishery,P10,1700
+6,Agri & fishery,P25,2000
+6,Agri & fishery,Median,"<bound method Series.median of occ_code                    6
+occ_label      Agri & fishery
+p10                      1700
+p25                      2000
+median                   2430
+p75                      2940
+p90                      3560
+mean                     2570
+n_thousands                20
+Name: 6, dtype: object>"
+6,Agri & fishery,P75,2940
+6,Agri & fishery,P90,3560
+6,Agri & fishery,Mean,2570
+7,Craft workers,P10,2020
+7,Craft workers,P25,2380
+7,Craft workers,Median,"<bound method Series.median of occ_code                   7
+occ_label      Craft workers
+p10                     2020
+p25                     2380
+median                  2820
+p75                     3380
+p90                     4080
+mean                    3010
+n_thousands              190
+Name: 7, dtype: object>"
+7,Craft workers,P75,3380
+7,Craft workers,P90,4080
+7,Craft workers,Mean,3010
+8,Plant operators,P10,1980
+8,Plant operators,P25,2320
+8,Plant operators,Median,"<bound method Series.median of occ_code                     8
+occ_label      Plant operators
+p10                       1980
+p25                       2320
+median                    2730
+p75                       3270
+p90                       3960
+mean                      2910
+n_thousands                150
+Name: 8, dtype: object>"
+8,Plant operators,P75,3270
+8,Plant operators,P90,3960
+8,Plant operators,Mean,2910
+9,Elementary occ.,P10,1620
+9,Elementary occ.,P25,1820
+9,Elementary occ.,Median,"<bound method Series.median of occ_code                     9
+occ_label      Elementary occ.
+p10                       1620
+p25                       1820
+median                    2090
+p75                       2440
+p90                       2870
+mean                      2160
+n_thousands                200
+Name: 9, dtype: object>"
+9,Elementary occ.,P75,2440
+9,Elementary occ.,P90,2870
+9,Elementary occ.,Mean,2160

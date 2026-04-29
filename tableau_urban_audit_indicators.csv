@@ -1,0 +1,17 @@
+indicator,padova,helsinki,unit,eurostat_dataset,diff_pct,favours
+Population (city proper),214125.0,677608.0,persons,urb_cpopstr,216.5,Helsinki
+Population density,1980.0,3180.0,per km²,urb_cpopstr,60.6,Helsinki
+GDP per capita (city),32100.0,56300.0,€ PPS,urb_clgdp,75.4,Helsinki
+Employment rate (20–64),68.4,79.2,%,urb_clivcon,15.8,Helsinki
+Unemployment rate,5.2,5.8,%,urb_clivcon,11.5,Padova
+Tertiary education attainment,35.1,52.4,%,urb_clivcon,49.3,Helsinki
+Life satisfaction (0–10),7.2,7.8,score,urb_clivcon,8.3,Helsinki
+Housing cost overburden rate,13.4,14.1,% of pop,ilc_lvho01,5.2,Padova
+Median housing cost share of income,23.1,28.4,% of income,ilc_lvho07a,22.9,Padova
+Public transport use (daily),19.3,33.7,% of trips,urb_ctran,74.6,Helsinki
+Average commute time,26.0,31.0,minutes,urb_ctran,19.2,Padova
+"Green space access (>1 ha, <10 min)",73.0,81.0,%,urb_clivcon,11.0,Helsinki
+Homicide rate,0.4,0.9,per 100k,urb_clivcon,125.0,Padova
+Feel safe walking at night,73.0,82.0,% agree,urb_clivcon,12.3,Helsinki
+Air quality (PM2.5 µg/m³),14.2,6.8,µg/m³,urb_clivcon,-52.1,Helsinki
+Satisfaction w/ public transport,57.0,70.0,% satisfied,urb_ctran,22.8,Helsinki
